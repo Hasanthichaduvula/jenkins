@@ -7,4 +7,4 @@ Resources:
        ImageId: ami-0c101f26f147fa7fd
        InstanceType: t2.micro
        KeyName: Newone
-       AvailabilityZone: us-east-1
+       AvailabilityZone: us-east-1a
